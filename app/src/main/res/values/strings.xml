@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAppDemoKotlin</string>
+    <string name="get_start">Get start</string>
+    <string name="todo">TODO</string>
+</resources>
